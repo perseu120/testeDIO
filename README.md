@@ -1,4 +1,4 @@
- # livro de receitas :man cook:
+ # livro de receitas :mancook:
  
   Aproveite nosso livro de receitas
   
